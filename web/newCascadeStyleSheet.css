@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3/08/2020, 04:54:22 PM
+    Author     : rafag
+*/
+
+body{
+    background-image:url( "altoahi.jpg");
+	font-family: Arial Black;
+        
+}
+.EncabezadoDerecha{
+	border:2px #22BF96;
+	text-align: center;
+	padding: 2px 50px;
+}
+.EncabezadoDerecha{
+	border:3px solid grey;
+	text-align:center;
+	padding: 2px 50px;
+	width:200;
+}
+p{
+	text-aling:justify;
+}
+.seccionIzquierda{
+	background-color: #000;
+	color: #fff;
+	text-align: justify;
+}
+.EncabezadoIzquierda{
+	border: 2px solid #fff;
+	text-align: center;
+	padding: 2px 50px;
+}
